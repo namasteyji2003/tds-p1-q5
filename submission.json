@@ -1,11 +1,7 @@
 {
-  "prompt": "A cinematic, highly detailed editorial illustration of a pair of human lungs split into two contrasting halves. The left lung is formed from lush green forests, clean air, and soft natural light, symbolizing health and life. The right lung is constructed from dense urban city buildings, factories, and industrial structures releasing thick black smoke into the air. The smoke spreads gradually from the polluted lung into the healthy lung like an infection, blending into it. The boundary between the two lungs is uneven and organic, not symmetrical. Composition follows rule of thirds, with the polluted lung dominating slightly more space. Mood: dark, emotional, suffocating, and urgent. Color palette: vibrant greens on the left, deep greys and blacks on the right, with a subtle transition zone. Lighting is dramatic and cinematic, with strong shadows. No text, no labels, no legends, no axes, no numbers, no chart elements.",
-  "model": "DALL·E 3",
-  "dataset_name": "Air Pollution Mortality Data",
-  "dataset_url": "https://www.who.int/data",
-  "insight": "Air pollution causes millions of deaths every year by slowly destroying human lungs.",
-  "concept": "Air pollution visualized as a disease infecting human lungs",
-  "tradition_name": "Environmental Visual Metaphor",
-  "tradition_period": "Contemporary (21st century)",
-  "tradition_approach": "Symbolic storytelling using contrast between healthy nature and polluted industrial environments"
+  "prompt": "Documentary photography style. A vast white empty plain stretches to every horizon. On the left side of the frame, hundreds of densely packed animal silhouettes fill the space — elephants, wolves, birds, fish, deer, whales — all dark and solid black, tightly crowded together. Moving right across the frame, the silhouettes become fewer, smaller, more faded and transparent, dissolving into pale grey ghosts. On the far right, only three or four barely-visible silhouettes remain, almost invisible against the white emptiness. The transition from full black to near-invisible happens gradually like ink fading in water. Vast empty white space dominates the right two-thirds of the image. Mood: silent extinction, irreversible absence, grief. Color palette: pure white background, deep solid black on left, dissolving pale grey towards right, no other colors. Rule of thirds composition. Minimalist. Photorealistic silhouettes. Absolutely no text, no words, no letters, no numbers, no chart elements, no axes, no labels, no legends anywhere in the image.",
+  "model": "Banana (Gemini Imagen)",
+  "dataset_name": "WWF Living Planet Index",
+  "dataset_url": "https://www.livingplanetindex.org/data_portal",
+  "insight": "Global wildlife populations have collapsed by an average of 73% since 1970 — a loss of nearly three-quarters of all wild animals in a single human lifetime."
 }
